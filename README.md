@@ -41,10 +41,12 @@ ii)  SQUARE WAVE INPUT
 
 
 ## TABULATION:
+![WhatsApp Image 2025-11-21 at 08 27 18_d1c60649](https://github.com/user-attachments/assets/141add1d-3321-400b-b80b-e725ff289e16)
 
 
 ## GRAPH:
+![WhatsApp Image 2025-11-21 at 08 27 31_ed383e2e](https://github.com/user-attachments/assets/ab2f3614-f241-492b-811e-7b8d6d5fc178)
 
 
 ## RESULT:
-
+The integrator and differentiator circuits using the Op-amp were successfully designed and tested, producing the expected time-domain responses for integration and differentiation of the input signal.
